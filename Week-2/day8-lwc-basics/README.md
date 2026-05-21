@@ -64,7 +64,9 @@ This component displays a bike's details including:
 
 ### Screenshot:
 
--
+<img width="1919" height="909" alt="Bike Card Component" src="https://github.com/user-attachments/assets/0e584c95-6e79-4af5-83bf-64cc1c7b5c29" />
+
+*Bike Card component as seen in Lightning App Builder during design time*
 
 ```
 ┌─────────────────────────────────┐
@@ -103,7 +105,10 @@ The Bike Selector App has multiple components working together:
 
 ### Final App Page:
 
-*Lightning App Page*
+<img width="1919" height="907" alt="Bike Selector App - Final Page" src="https://github.com/user-attachments/assets/a5e3aeae-075b-4b9f-b7f2-dfa8ac5d2031" />
+
+
+*Bike Selector App showing available bikes for logged-in user*
 
 ---
 
