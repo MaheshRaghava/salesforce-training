@@ -1,3 +1,5 @@
+# Day 9 - LWC Communication & Aura Basics
+
 ## 1. Component Communication
 
 ### Why Components Need to Communicate
